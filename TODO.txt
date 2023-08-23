@@ -1,0 +1,5 @@
+Update mongoose to the latest version + logic.
+Finish tests +-
+Change post and user to interfaces
+Make the resolution for each image the same
+
